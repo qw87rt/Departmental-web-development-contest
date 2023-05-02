@@ -1,1 +1,1 @@
-# Department-Firt-WEB-DEV-contest
+# Department-First-WEB-DEV-contest
