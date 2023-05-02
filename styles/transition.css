@@ -1,0 +1,40 @@
+.home {
+    animation: transitions 0.75s;
+}
+
+.wrapper {
+    animation: transitions 0.75s;
+}
+
+.facilities__container {
+    animation: transitions 0.75s;
+}
+
+.heading__h1 {
+    animation: transitions 0.75s;
+}
+
+.creator__wrap {
+    animation: transitions 0.75s;
+}
+
+#home {
+    animation: transitions 0.75s;
+}
+
+.text__container {
+    animation: transitions 0.75s;
+}
+
+
+@keyframes transitions {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
